@@ -1,0 +1,37 @@
+<!doctype html>
+<head>
+  <title>Rachel's Site</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+<h1>Welcome to Rachel's Website</h1>
+
+<div id="contact">
+<h2>Contact info</h2>
+<ul>
+  <li><strong>Phone:</strong> 612-625-9950</li>
+  <li><strong>E-mail:</strong> bliss054@umn.edu</li>
+  <li><strong>Website:</strong> http://www.example.org</li>
+</ul>
+</div>
+
+<h2>About My Website</h2>
+
+<p>Hello! My name is Rachel, and this is my first site! This will be used for training purposes throughout 4662. </p>
+
+<p>I'm just trying to figure all this out!</p>
+
+<h2>Section 2</h2>
+
+<p></p>
+
+<p> </p>
+
+<h2>Section 3</h2>
+
+<p></p>
+
+</body>
+</html>
